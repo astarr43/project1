@@ -1,0 +1,16 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 822A-6603
+
+ Directory of C:\Users\DELL\Desktop\python
+
+12-03-2026  16:10    <DIR>          .
+19-02-2026  09:39    <DIR>          ..
+12-03-2026  15:52             1,059 astarr.py
+12-03-2026  12:32               665 baaz.py
+06-03-2026  09:52               405 html.html
+12-03-2026  11:55               170 jhota.py
+12-03-2026  16:17               616 out.txt
+12-03-2026  16:18               236 sub.py
+19-01-2026  16:21               126 test.py
+               7 File(s)          3,277 bytes
+               2 Dir(s)  102,210,801,664 bytes free
